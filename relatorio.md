@@ -3,8 +3,8 @@
 **Tema 5: Equivalência entre diferentes noções de indução**
 
 **Alunos:**
-*   Cecíllia Carvalho de Santana — 17/0008002
-*   Guilherme Praxedes Franco — 18/0136780
+*   Cecíllia Carvalho de Santana - 17/0008002
+*   Guilherme Praxedes Franco - 18/0136780
 
 ---
 
