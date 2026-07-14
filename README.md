@@ -1,4 +1,4 @@
-# Equivalência entre Noções de Indução — PAA 2026/1
+# Equivalência entre Noções de Indução - PAA 2026/1
 
 Este repositório contém a formalização em Coq/Rocq da equivalência lógica entre três noções de indução sobre os números naturais (`nat`):
 1.  **PIM** (Princípio da Indução Matemática - indução simples)
@@ -8,8 +8,8 @@ Este repositório contém a formalização em Coq/Rocq da equivalência lógica 
 Trabalho prático desenvolvido para a disciplina **Projeto e Análise de Algoritmos (2026/1)** da **Universidade de Brasília (UnB)**.
 
 ## Integrantes
-*   **Cecíllia Carvalho de Santana** — 17/0008002
-*   **Guilherme Praxedes Franco** — 18/0136780
+*   **Cecíllia Carvalho de Santana** - 17/0008002
+*   **Guilherme Praxedes Franco** - 18/0136780
 
 ## Estrutura do Repositório
 *   `src/ind_equiv.v`: Contém as definições dos princípios de indução e as provas de equivalência (`PIM_equiv_PIF`, `PBO_equiv_PIM` e `PBO_equiv_PIF`).
