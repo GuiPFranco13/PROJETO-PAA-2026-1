@@ -1,2 +1,2 @@
--R src/ ""
-src/ind_equiv.v
+-R . inducaoequivalente
+inducaoequivalente.v
