@@ -16,11 +16,3 @@ Trabalho prático desenvolvido para a disciplina **Projeto e Análise de Algorit
 *   `_CoqProject`: Arquivo de mapeamento lógico para o compilador do Coq.
 *   `Makefile`: Script auxiliar para compilação local das provas.
 *   `relatorio.md`: Documentação técnica do projeto com explicações matemáticas e os ajustes de compilação aplicados sobre o template original.
-
-## Como Executar
-Para compilar localmente através do terminal, execute na raiz do projeto:
-```bash
-make
-```
-
-O arquivo principal `inducaoequivalente.v` pode ser inspecionado interativamente utilizando o **CoqIDE** ou o **VS Code** com extensão de suporte a Coq (*VSCoq* ou *Coq LSP*).
