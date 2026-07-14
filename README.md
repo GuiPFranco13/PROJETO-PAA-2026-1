@@ -23,4 +23,4 @@ Para compilar localmente através do terminal, execute na raiz do projeto:
 make
 ```
 
-O arquivo principal `src/ind_equiv.v` pode ser inspecionado interativamente utilizando o **CoqIDE** ou o **VS Code** com extensão de suporte a Coq (*VSCoq* ou *Coq LSP*).
+O arquivo principal `inducaoequivalente.v` pode ser inspecionado interativamente utilizando o **CoqIDE** ou o **VS Code** com extensão de suporte a Coq (*VSCoq* ou *Coq LSP*).
