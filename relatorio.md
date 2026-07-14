@@ -1,4 +1,4 @@
-# Projeto de Formalização — PAA (2026/1)
+# Projeto de Formalização - PAA (2026/1)
 
 **Tema 5: Equivalência entre diferentes noções de indução**
 
@@ -15,7 +15,7 @@ Este trabalho apresenta a formalização no assistente de provas Coq/Rocq da equ
 *   **PIF** (Princípio da Indução Forte)
 *   **PBO** (Princípio da Boa Ordenação)
 
-O código-fonte com todas as definições e teoremas está localizado em `src/ind_equiv.v`.
+O código-fonte com todas as definições e teoremas está localizado em `inducaoequivalente.v`.
 
 ## 2. Estratégia de Prova
 
