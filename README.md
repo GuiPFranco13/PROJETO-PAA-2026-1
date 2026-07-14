@@ -12,7 +12,7 @@ Trabalho prático desenvolvido para a disciplina **Projeto e Análise de Algorit
 *   **Guilherme Praxedes Franco** - 18/0136780
 
 ## Estrutura do Repositório
-*   `src/ind_equiv.v`: Contém as definições dos princípios de indução e as provas de equivalência (`PIM_equiv_PIF`, `PBO_equiv_PIM` e `PBO_equiv_PIF`).
+*   `inducaoequivalente.v`: Contém as definições dos princípios de indução e as provas de equivalência (`PIM_equiv_PIF`, `PBO_equiv_PIM` e `PBO_equiv_PIF`).
 *   `_CoqProject`: Arquivo de mapeamento lógico para o compilador do Coq.
 *   `Makefile`: Script auxiliar para compilação local das provas.
 *   `relatorio.md`: Documentação técnica do projeto com explicações matemáticas e os ajustes de compilação aplicados sobre o template original.
